@@ -1,0 +1,6 @@
+.cardmap{
+    margin: 2%;
+    display: flex;
+    flex-direction: row;
+    column-gap: 40%;
+}

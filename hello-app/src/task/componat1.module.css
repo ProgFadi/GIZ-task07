@@ -1,0 +1,20 @@
+.prodect{
+    display: flex;
+    color: brown;
+    flex-direction:column;
+    margin: 2%;
+    align-content:stretch;
+}
+.pro{
+   display: flexbox;
+   flex-direction: column;
+   
+}
+.add_prodect{
+    font-size: 70%;
+    width: 20%;
+}
+.delete{
+ text-align: right;
+ cursor: pointer;
+}
